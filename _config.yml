@@ -9,7 +9,7 @@ topnav_title: GANCAT
 site_title: Generative Adversarial Networks for Categorisation Learning
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: 2023 Victor Navarro
+company_name: Victor Navarro
 # this appears in the footer
 
 github_editme_path: victor-navarro/gancat-web/blob/gh-pages/
@@ -71,7 +71,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
       sidebar: home_sidebar
@@ -91,7 +91,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true
+      comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
       sidebar: home_sidebar
@@ -115,6 +115,3 @@ description: "Website for GANCAT (Generative Adversarial Networks for Categorisa
 
 
 github: [metadata]
-
-
-# 2023 Victor Navarro
