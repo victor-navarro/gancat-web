@@ -8,21 +8,12 @@ topnav:
     - title: News
       url: /news
     - title: Resources
-      url: /mydoc_introduction.html
+      url: /gancat_resources
+    - title: FAQ
+      url: /gancat_faq
+    - title: CancerSampler
+      url: /cancer_sampler.html
     - title: GitHub
       external_url: https://github.com/victor-navarro/gancat
-
-#Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: Products
-      folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
 
 # Copyright 2021 Google LLC

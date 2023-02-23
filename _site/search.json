@@ -2,6 +2,42 @@
 [
 
 {
+"title": "News",
+"tags": "",
+"keywords": "",
+"url": "cancer_sampler.html",
+"summary": ""
+}
+,
+
+{
+"title": "FAQ",
+"tags": "FAQ",
+"keywords": "frequently asked questions, FAQ, question and answer, collapsible sections, expand, collapse",
+"url": "gancat_faq.html",
+"summary": ""
+}
+,
+
+{
+"title": "Resources",
+"tags": "",
+"keywords": "",
+"url": "gancat_resources.html",
+"summary": ""
+}
+,
+
+{
+"title": "Welcome!",
+"tags": "",
+"keywords": "home, gancat, cancer",
+"url": "home.html",
+"summary": ""
+}
+,
+
+{
 "title": "Getting started with the Documentation Theme for Jekyll",
 "tags": "getting_started",
 "keywords": "sample homepage",
@@ -128,15 +164,6 @@
 ,
 
 {
-"title": "FAQ layout",
-"tags": "special_layouts",
-"keywords": "frequently asked questions, FAQ, question and answer, collapsible sections, expand, collapse",
-"url": "mydoc_faq_layout.html",
-"summary": "You can use an accordion-layout that takes advantage of Bootstrap styling. This is useful for an FAQ page."
-}
-,
-
-{
 "title": "Generating PDFs",
 "tags": "publishingsingle_sourcingcontent_types",
 "keywords": "PDF, prince, prince XML, ant, xsl fo",
@@ -204,15 +231,6 @@
 "tags": "",
 "keywords": "jekyll on windows, pc, ruby, ruby dev kit",
 "url": "mydoc_install_jekyll_on_windows.html",
-"summary": ""
-}
-,
-
-{
-"title": "Introduction",
-"tags": "",
-"keywords": "",
-"url": "mydoc_introduction.html",
 "summary": ""
 }
 ,
@@ -511,213 +529,6 @@
 "keywords": "news, blog, updates, release notes, announcements",
 "url": "news_archive.html",
 "summary": ""
-}
-,
-
-{
-"title": "Product 1",
-"tags": "",
-"keywords": "mydoc",
-"url": "p1_landing_page.html",
-"summary": ""
-}
-,
-
-{
-"title": "Sample 1 Topic (Product 1)",
-"tags": "",
-"keywords": "sample",
-"url": "p1_sample1.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 2 Topic (Product 1)",
-"tags": "",
-"keywords": "sample",
-"url": "p1_sample2.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 3 Topic (Product 1)",
-"tags": "",
-"keywords": "sample",
-"url": "p1_sample3.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 4 Topic (Product 1)",
-"tags": "",
-"keywords": "sample",
-"url": "p1_sample4.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 5 Topic (Product 1)",
-"tags": "",
-"keywords": "sample",
-"url": "p1_sample5.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 6 Topic (Product 1)",
-"tags": "",
-"keywords": "sample",
-"url": "p1_sample6.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 7 Topic (Product 1)",
-"tags": "",
-"keywords": "sample",
-"url": "p1_sample7.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Product 2",
-"tags": "",
-"keywords": "mydoc",
-"url": "p2_landing_page.html",
-"summary": ""
-}
-,
-
-{
-"title": "Sample 1 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample1.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 10 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample10.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 11 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample11.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 12 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample12.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 13 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample13.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 14 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample14.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 2 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample2.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 3 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample3.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 4 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample4.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 5 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample5.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 6 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample6.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 7 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample7.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 8 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample8.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-{
-"title": "Sample 9 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "p2_sample9.html",
-"summary": "This is just a sample topic..."
 }
 ,
 
