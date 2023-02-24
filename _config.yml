@@ -84,11 +84,6 @@ defaults:
       layout: "page"
       search: true
       tooltip: true
-  -
-    scope:
-      path: "images/cancer_samples"
-    values:
-      cancer_sample: true
 
   -
     scope:

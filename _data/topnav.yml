@@ -11,8 +11,6 @@ topnav:
       url: /gancat_resources
     - title: FAQ
       url: /gancat_faq
-    - title: CancerSampler
-      url: /cancer_sampler.html
     - title: GitHub
       external_url: https://github.com/victor-navarro/gancat
 
