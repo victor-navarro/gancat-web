@@ -29,3 +29,16 @@ const filelist = [
 function getSample() {
   return "images/cancer_samples/"+filelist[Math.floor(Math.random() * filelist.length)];
 }
+
+async function loadImage(imageUrl) {
+    let img;
+    const imageLoadPromise = new Promise(resolve => {
+        img = new Image();
+        img.onload = resolve;
+        img.src = imageUrl;
+    });
+
+    await imageLoadPromise;
+    console.log("image loaded");
+    return img;
+}
